@@ -2,7 +2,7 @@
 import streamlit as st
 import tipy_qd
 
-st.set_page_config(page_title="TiPy-QD Bemessungsumgebung", layout="wide")
+st.set_page_config(page_title="TiPy-QD Bemessungsumgebung", layout="centered")
 st.title("TiPy-QD Bemessungsumgebung")
 
 # Erzeugen von Tabs (z. B. Übersicht und Berechnung)
