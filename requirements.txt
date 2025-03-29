@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+numpy
+fpdf
+pylatex
+drawsvg
