@@ -6,7 +6,7 @@ st.set_page_config(page_title="TiPy-QD Bemessungsumgebung", layout="wide")
 st.title("TiPy-QD Bemessungsumgebung")
 
 # Erzeugen von Tabs (z. B. Übersicht und Berechnung)
-tab1, tab2 = st.tabs(["Übersicht", "Berechnung"])
+tab1, tab2 = st.tabs(["Übersicht", "Schlitzblech mit Stabdübeln"])
 
 with tab1:
     st.header("Übersicht")
